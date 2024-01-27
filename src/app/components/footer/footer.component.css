@@ -1,0 +1,26 @@
+/* Base styles for all screen sizes */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0;
+  }
+  
+  /* Styles for desktop */
+  @media screen and (min-width: 768px) {
+    
+  }
+  
+  /* Styles for tablet */
+  @media screen and (max-width: 767px) {
+  }
+  
+  /* Styles for mobile */
+  @media screen and (max-width: 480px) {
+  }
+  
